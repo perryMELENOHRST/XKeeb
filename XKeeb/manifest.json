@@ -1,9 +1,0 @@
-{
-    "manifest_version": 3,
-    "name": "XKeeb",
-    "description": "A browser extension to allow for keyboard and mouse use in XBOX cloud gaming.",
-    "version": "0",
-    "action": {
-        "default_popup": "popup/interface.html"
-    }
-}
