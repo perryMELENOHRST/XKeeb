@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "XKeeb",
+    "description": "A browser extension to allow for keyboard and mouse use in XBOX cloud gaming.",
+    "permissions": ["scripting", "activeTab"],
+    "content_scripts": [
+    {
+    "matches": ["https://hardwaretester.com/gamepad", "https://gamepadtester.net/", "https://www.xbox.com/en-AU/play/launch/fortnite/*"],
+    
+    "js": ["./popup/injectable.js"]
+    }
+    ],
+    "version": "0",
+    "action": {
+        "default_popup": "popup/interface.html"
+    }
+}
