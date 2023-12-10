@@ -1,9 +1,11 @@
+![HeaderLogo](https://i.imgur.com/yI5S3rG.png)
+
 # XKeeb
 A browser extension to allow for keyboard and mouse use in Xbox Cloud Gaming.
 
-## Notice: XKeeb is still in development. The current plugin *will not work*.
 
-![HeaderLogo](https://github.com/perryMELENOHRST/XKeeb/assets/84308737/a68e3213-a787-4644-a31e-037b1f40f6dc)
+## Notice: XKeeb is still in development. The current plugin *will not work*.
+## Icons Provided By: [ryderjt](https://github.com/ryderjt)
 ### Install instructions here: [Install](https://github.com/perryMELENOHRST/XKeeb/wiki/Install) 
 
 ## FAQ
